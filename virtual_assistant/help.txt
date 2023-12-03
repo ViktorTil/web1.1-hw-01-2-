@@ -1,0 +1,19 @@
+    
+    Available commands:
+    hello - type "hello" to display a greeting message
+    add - type "add" to add new item
+    edit - type "edit" to edit existing item
+    bye - type "bye" to save and exit the program
+    delete - type "delete" to delete items from contacts or notes
+    search - type "search" to search for contacts or notes
+    showall - type "showall" to display all contacts or notes
+    congratulate - type "congratulate" to display contacts with birthday in the entered period
+    organize - type "organize" to organize files in a folder
+
+    Available items:
+    phone - required format is: any ukrainian phone in free format
+    birthday - required format is: any data format in sequence: day(dd) after month(mm) after year(YYYY|YY)
+    email - any email format
+    address - arbitrary
+    note - arbitrary
+    tags - arbitrary
